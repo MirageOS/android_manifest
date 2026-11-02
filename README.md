@@ -37,3 +37,10 @@ Start the compilation:
 ```bash
 m mirage
 ```
+
+Mirage Stuff
+
+```bash
+MIRAGE_MAINTAINER := Unknown
+IS_OFFICIAL := false
+```
