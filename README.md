@@ -1,14 +1,15 @@
-# PixelOS
+# MirageOS
+a fork of pixel os
 
 ## Getting Started
 
-To get started with the PixelOS source code, you'll need to be
+To get started with the MirageOS source code, you'll need to be
 familiar with [Git and Repo](https://source.android.com/setup/build/downloading).
 
 To initialize your local repository, run:
 
 ```bash
-repo init -u https://github.com/PixelOS-AOSP/android_manifest.git -b seventeen --git-lfs
+repo init -u https://github.com/MirageOS/android_manifest.git -b seventeen --git-lfs
 ```
 
 Then, sync the repository:
@@ -34,8 +35,5 @@ breakfast devicecodename
 Start the compilation:
 
 ```bash
-m pixelos
+m mirage
 ```
-
-## Submitting Patches
-Patches are always welcome! Feel free to submit your patches via [PixelOS Gerrit](https://review.pixelos.net/).
